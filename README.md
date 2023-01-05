@@ -1,4 +1,4 @@
-# ReUseableModal
+# Reuseable Modal
 
 ## About Project
 
