@@ -65,3 +65,6 @@ Modal can be customized to show any or all section based on configuration passed
   `npm run start`
 - To run test cases:
   `npm run test`
+
+Report at Overview level
+![Screenshot](screenshot/Light House Screen shot.png)
