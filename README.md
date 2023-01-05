@@ -66,5 +66,6 @@ Modal can be customized to show any or all section based on configuration passed
 - To run test cases:
   `npm run test`
 
-Lighthouse Report : 
+## Lighthouse Report : 
+  
 ![Screenshot](https://github.com/DeepshikhaDudi20/ModalComponent_React/blob/main/screenshot/Light%20House%20Screen%20shot.png)
